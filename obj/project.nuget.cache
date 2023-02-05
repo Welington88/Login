@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FIj9LRRxcs62qXUFgv8BdM/DIaUNPOOj1W3Lla203CY7b5XDtWXLHTSwCr1Fo78FWYeN1F+cOQzIMNnXVSITQQ==",
+  "dgSpecHash": "UL7Ay4l4uoo9uOo4YzKXcyStuNR4Qp7j5Bz40upY3cKL5IaeBDood1A7EOu/hSxFS9QVHW3Q9umjAPfP7dxxew==",
   "success": true,
   "projectFilePath": "/Users/welingtonmarquezini/Projects/loginAspNet/loginAspNet.csproj",
   "expectedPackageFiles": [
@@ -145,7 +145,10 @@
     "/Users/welingtonmarquezini/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/welingtonmarquezini/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/welingtonmarquezini/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/Users/welingtonmarquezini/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "/Users/welingtonmarquezini/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

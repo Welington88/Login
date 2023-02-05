@@ -1,25 +1,38 @@
 ﻿<Properties StartupConfiguration="{7EF169C7-0884-4C18-8C36-6F18BB3C1800}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/ApplicationUser.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/Models/Aluno.cs">
     <Files>
       <File FileName="Areas/Models/Aluno.cs" Line="7" Column="18" />
       <File FileName="Models/ApplicationUser.cs" Line="9" Column="65" />
       <File FileName="Controllers/HomeController.cs" />
       <File FileName="Data/Migrations/20220128035157_aluno.cs" />
       <File FileName="Data/Migrations/20220128130109_ajuste.cs" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="35" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="loginAspNet" expanded="True">
             <Node name="loginAspNet" expanded="True">
-              <Node name="Areas" expanded="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+                <Node name="Models" expanded="True">
+                  <Node name="Aluno.cs" selected="True" />
+                </Node>
+              </Node>
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True">
                 <Node name="Migrations" expanded="True" />
               </Node>
-              <Node name="Models" expanded="True">
-                <Node name="ApplicationUser.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True" />
             </Node>
           </Node>
@@ -27,11 +40,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.loginAspNet PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.loginAspNet PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
